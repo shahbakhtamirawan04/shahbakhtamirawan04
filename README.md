@@ -1,6 +1,6 @@
 ![MasterHead]( https://www.proofhub.com/articles/wp-content/uploads/2020/08/Web-Developer.gif)
 <h1 align="center">Hi 👋, I'm Shah Bakht Amir Awan</h1>
-<h3 align="center">A passionate full stack developer from Pakistan</h3>
+<h3 align="center">A passionate Full Stack Developer from Pakistan</h3>
 
 <img align="right" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" />
 
